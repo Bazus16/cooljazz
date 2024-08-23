@@ -1,0 +1,11 @@
+{
+    "spec": 1,
+    "name": "Cool Jazz",
+    "previewText": "The Quick Brown Fox Jumps Over The Lazy Dog",
+    "main": {
+        "ggsans-Medium": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-Medium.ttf?raw=1",
+        "ggsans-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-Normal.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-Medium.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-Normal.ttf?raw=1",
+    }
+}
